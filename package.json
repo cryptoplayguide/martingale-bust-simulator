@@ -1,0 +1,19 @@
+{
+  "name": "martingale-bust-simulator",
+  "version": "1.0.0",
+  "description": "Dependency-free exact losing-streak probabilities and seedable Martingale session simulations",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "bin": {
+    "martingale-bust-simulator": "bin/martingale-bust-simulator.js"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["martingale", "risk-of-ruin", "probability", "simulation"]
+}

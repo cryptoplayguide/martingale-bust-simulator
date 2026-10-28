@@ -1,5 +1,7 @@
 # martingale-bust-simulator
 
+> **Try it in your browser:** [https://cryptoplay.guide/tools/martingale-bust-calculator/](https://cryptoplay.guide/tools/martingale-bust-calculator/) — free, runs client-side, no sign-up. 18+, for education only.
+
 Small, dependency-free JavaScript package for Martingale recovery progressions, exact finite-session losing-streak probabilities, and seedable Monte Carlo simulation. Runs in Node.js 18+ and modern browsers; MIT licensed.
 
 For an interactive explanation, see the [risk of ruin simulator](https://cryptoplay.guide/tools/risk-of-ruin-simulator/).
